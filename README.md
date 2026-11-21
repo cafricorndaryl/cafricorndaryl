@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deejayBarb
 - 👀 I’m an Innovative Technology Enthusiast
-- 🤗 I would like to use this platform to help or give some insights / codes / electronics designs about technology.
-- 😊 My goal is to promote Innovative Technology here in the Philippines.
+- 🤗 
+- 😊 
 - 😇 Thank You :)
 
 <!---
